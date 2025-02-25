@@ -1,0 +1,437 @@
+<script src="https://assets.crowd.aws/crowd-html-elements.js"></script>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Survey Interface</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f8f9fa;
+      color: #333;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 20px;
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+
+    .guidelines {
+      margin-bottom: 20px;
+      padding: 15px;
+      background: #e9ecef;
+      border-radius: 5px;
+      border-left: 4px solid #007bff;
+    }
+
+    .question {
+      margin-bottom: 20px;
+      padding: 15px;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      background: #fefefe;
+      display: none;
+    }
+
+    .question h3 {
+      margin: 0 0 10px;
+      font-size: 18px;
+    }
+
+    .options {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    label {
+      display: flex;
+      align-items: center;
+      cursor: pointer;
+    }
+    .question.active {
+            display: block;
+        }
+
+    input[type="radio"] {
+      margin-right: 10px;
+    }
+
+    .submit-btn {
+            margin-top: 30px;
+            padding: 5px 5px;
+            font-size: 20px;
+            cursor: pointer;
+            background-color: #35a980;
+            color: white;
+            border: none;
+            display: block;
+        }
+
+    p, li{
+        font-family: Arial;
+        /* font-size: 20px; */
+        line-height: 24px;
+        letter-spacing: 0;
+        text-align: justify;
+        text-justify: inter-word;
+        /* color: gray;
+  border: 1px solid black; */
+        }
+  </style>
+</head>
+<crowd-form answer-format="flatten-objects">
+<body>
+  <div class="container">
+    <!-- Guidelines Section -->
+    <div class="guidelines">
+      
+      <h2>Survey Guidelines: Introduction</h2>
+      <p>The goal of this study is to determine whether a given statement can be inferred or entailed from a provided paragraph.</p>
+      
+      <h2>Instructions: </h2>
+      <p>You will be given a paragraph followed by a statement (a piece of information). 
+        Your task is to carefully read both and decide whether the statement is supported by the paragraph.
+        You must select one of the following options:</p>
+        <ul>
+          <li><span style="color: green;">✅ Yes:</span> The statement can be inferred or entailed from the paragraph.</li>
+          <li><span style="color: rgb(193, 41, 41);">❌ No:</span> The statement cannot be inferred or entailed from the paragraph.</li>
+        </ul>
+        
+        <h4>When to Say Yes or No</h4>
+        Say <span style="color: green;">"Yes"</span> when:
+        <ul>
+          <li>The statement is directly stated in the paragraph.</li>
+          <li>The statement is strongly implied by the paragraph, meaning that even though the exact wording is not used, it logically follows from the information provided.</li>
+        </ul>
+        
+        Say <span style="color: rgb(193, 41, 41);">"No"</span> when:
+        <ul>
+          <li>The statement introduces new information that is not mentioned in the paragraph.</li>
+          <li>The statement is about a different subject than paragraph.</li>
+          <li>The statement contradicts something stated in the paragraph.</li>
+          <li>The statement requires additional assumptions beyond what is explicitly or logically implied.</li>
+        </ul>
+
+    <h4>Entailment Cases (Yes)</h4>
+
+      <p>✅ Example 1: Directly Stated</p>
+      <ul>
+        <li>Paragraph: "Emily loves reading books. She spends at least an hour every night reading before bed."</li>
+        <li>Statement: "Emily spends an hour reading every night."</li>
+        <li>✔ Answer: Yes (The statement is directly stated in the paragraph.)</li>
+      </ul>
+      <!-- <p>Paragraph: "Emily loves reading books. She spends at least an hour every night reading before bed."</p>
+      <p>Statement: "Emily spends an hour reading every night."</p>
+      <p>✔ Answer: Yes (The statement is directly stated in the paragraph.)</p> -->
+
+      <p>✅ Example 2: Strongly Implied</p>
+      <ul>
+        <li>Paragraph: "After running five miles, Tom was drenched in sweat and breathing heavily. He immediately grabbed a bottle of water."</li>
+        <li>Statement: "Tom was tired after his run."</li>
+        <li>✔ Answer: Yes (Although the paragraph does not say "Tom was tired," his heavy breathing and need for water strongly imply it.)</li>
+      </ul>
+      <!-- <p>Paragraph: "After running five miles, Tom was drenched in sweat and breathing heavily. He immediately grabbed a bottle of water."</p>
+      <p>Statement: "Tom was tired after his run."</p>
+      <p>✔ Answer: Yes (Although the paragraph does not say "Tom was tired," his heavy breathing and need for water strongly imply it.)</p> -->
+
+
+    <h4>Non-Entailment Cases (No)</h4>
+
+    <p>❌ Example 3: New Information Introduced</p>
+    <ul>
+      <li>Paragraph: "The sun was shining, and children were playing in the park. A group of friends sat on a bench, enjoying their ice cream."</li>
+      <li>Statement: "The children were playing soccer."</li>
+      <li>✘ Answer: No (The paragraph mentions children playing but does not specify that they were playing soccer.)</li>
+    </ul>
+    <!-- <p>Paragraph: "The sun was shining, and children were playing in the park. A group of friends sat on a bench, enjoying their ice cream."</p>
+    <p>Statement: "The children were playing soccer."</p>
+    <p>✘ Answer: No (The paragraph mentions children playing but does not specify that they were playing soccer.)</p> -->
+
+    <p>❌ Example 4: Contradiction</p>
+    <ul>
+      <li>Paragraph: "Alice was excited to go to the beach, but when she arrived, it started raining heavily. She had to stay inside."</li>
+      <li>Statement: "Alice enjoyed a sunny day at the beach."</li>
+      <li>✘ Answer: No (The paragraph states that it was raining, contradicting the statement.)</li>
+    </ul>
+    <!-- <p>Paragraph: "Alice was excited to go to the beach, but when she arrived, it started raining heavily. She had to stay inside."</p>
+    <p>Statement: "Alice enjoyed a sunny day at the beach."</p>
+    <p>✘ Answer: No (The paragraph states that it was raining, contradicting the statement.)</p> -->
+
+
+    <p>❌ Example 5: Requires Additional Assumptions</p>
+    <ul>
+      <li>Paragraph: "Mark set his alarm for 6 AM and went to bed early."</li>
+      <li>Statement: "Mark woke up at 6 AM."</li>
+      <li>✘ Answer: No (The paragraph states he set the alarm but does not confirm he actually woke up at that time.)</li>
+    </ul>
+
+
+    <p>❌ Example 6: Different Subject</p>
+    <ul>
+      <li>Paragraph: "There are around 1,400 species of bamboo which are all considered safe and non-toxic for your pet cats."</li>
+      <li>Statement: "Thankfully, spider plants are not toxic to cats and so are a great option for pet owners."</li>
+      <li>✘ Answer: No (However both the statement and paragraph are talking about plants that are safe for cat, but one is talking about bamboo and the other one is talking about spider plant.)</li>
+    </ul>    
+    <!-- <p>Paragraph: "Mark set his alarm for 6 AM and went to bed early."</p>
+    <p>Statement: "Mark woke up at 6 AM."</p>
+    <p>✘ Answer: No (The paragraph states he set the alarm but does not confirm he actually woke up at that time.)</p> -->
+
+
+      <h2>What do to </h2>
+      <ul>
+        <li>After reading these guidelines, you can begin the study.</li>
+        <li>The study consists of 10 tasks.</li>
+        <li>For each task, read the paragraph and the given statement.</li>
+        <li>Select either Yes or No based on whether the statement is supported by the paragraph.</li>
+        <li>Click the Next button to proceed to the next task.</li>
+        <li>You must make a selection before clicking Next.</li>
+      </ul>
+      <!-- <p>After reading the guidelines, you can start the study. The study includes 10 tasks.
+        After answering each task, you must press the <b>Next</b> button to second task appear. 
+        You should select one of the <span style="color: green;">Yes</span> or <span style="color: rgb(193, 41, 41);">No</span> choices before clicking <b>Next</b> button.
+      </p> -->
+
+      <h2>How to get rejected</h2>
+      <p>The study includes several test questions. If you give a wrong answer to more than 80% of these questions,
+         we have to reject your Hit.</p>
+
+      <h2>Examples</h2>
+    
+      <ul>
+        <li><b>Paragraph:</b> The Japanese camera industry has been growing rapidly, and some of the best Japanese camera brands include Canon, Nikon, Sony, Fujifilm, Olympus, Panasonic, and Pentax. These brands have a long history and are well-known for their high-quality cameras.</li>
+        <li><b>Statement:</b> Here is the list of the top 20 famous camera brand names for your inspiration: Canon Nikon Sony Olympus Leica Fujifilm Yashica Casio Toshiba LG Ricoh Samsung GoPro Kodak Lumix Polaroid Pentax Panasonic Hasselblad Sigma</li>
+        <li><b>Answer:</b> ❌ No. Following cameras are not mentioned in the paragraph: Leica Yashica Casio Toshiba LG Ricoh Samsung GoPro Kodak Lumix Polaroid Hasselblad Sigma</li>
+      </ul>
+
+      <ul>
+        <li><b>Paragraph:</b> For the third step in your evening routine, which involves incorporating a treatment serum, here are some suitable product suggestions and steps based on your skin type and concerns: 1. **Glycolic Acid 7% Toning Solution**: This product from The Ordinary can help with exfoliation and improving skin texture. Apply it after cleansing and toning. 2. **Salicylic Acid 2% Solution**: Also from The Ordinary, this solution can help treat acne by unclogging pores and reducing inflammation. Apply it sparingly on acne-prone areas. 3. **Niacinamide 10% + Zinc 1%**: This serum from The Ordinary is beneficial in reducing the appearance of blemishes and controlling oil production. It can also improve skin barrier function and hydration. 4. **Benzoyl Peroxide Treatment**: Products with 2.5 - 5% Benzoyl Peroxide (like Paula’s Choice Daily Skin Clearing Treatment) are effective for killing acne-causing bacteria. Remember not to overuse concentrated acne treatments to avoid irritation. Apply these serums and treatments after your toner and before your moisturizer. Rotate or alternate the use of these serums throughout the week to manage irritation and best address your skin's needs. Always follow up with a non-comedogenic, hydrating moisturizer.</li>
+        <li><b>Statement:</b> Choose a night cream that contains Hyaluronic acid</li>
+        <li><b>Answer:</b> ❌ No. The paragraph do not mention anything about night cream with Hyaluronic acid. </li>
+      </ul>
+      
+      <ul>
+        <li><b>Paragraph:</b> Mountain bikes have big tires to provide more traction and grip, which is essential for handling rough terrains like forests and mountainous areas. The larger surface area of the tires helps prevent the bike from getting stuck in soft surfaces such as sand or snow, making them ideal for off-road cycling. While these tires are not primarily designed for speed, they do offer stability and control, which can be beneficial when navigating complex trails. If speed is a priority, you might consider using slightly narrower tires, around 3 inches wide, which can offer a balance between speed and traction on relatively hard-packed trails.</li>
+        <li><b>Statement:</b> Mountain bikes have wider wheels, providing more surface area to grip the ground. Their tires have raised lugs that can provide traction over rough surface.</li>
+        <li><b>Answer:</b> ✅ Yes.</li>
+      </ul>      
+
+
+      <ul>
+        <li><b>Paragraph:</b> Fall-detection watches, like the Apple Watch, use advanced technology to ensure your safety in case of a fall. They incorporate a custom algorithm along with an accelerometer and gyroscope to detect falls by analyzing wrist trajectory and impact acceleration. If a hard fall is detected, the watch sends an alert that you can dismiss or use to call emergency services. If you remain immobile for about 60 seconds after the fall, the watch will automatically call emergency services and play an audio message with your location coordinates. It also sends a message to your emergency contacts. This feature can be life-saving, especially if a fall leaves you unable to press a button for help. For users aged 65 and older, fall detection is automatically activated. This system provides peace of mind, knowing that help can be summoned even if you are unable to respond.</li>
+        <li><b>Statement:</b> Fall detection technology uses accelerometers and other sensors to detect fall movement and an algorithm to determine if the movement indicates an actual fall or a false alarm. </li>
+        <li><b>Answer:</b> ✅ Yes.</li>
+      </ul>      
+
+
+  
+    </div>
+
+    <!-- Questions -->
+    <div class="question active">
+      <p><b>Paragraph:</b> </p>
+      <p>${q1_response}</p>
+      <p><b>Statement:</b></p>
+      <p>${q1_nugget_text}</p>
+      <p>Is the statement covered in the paragraph?</p>
+      <div class="options">
+        <label><input type="radio" name="n1" value="1" required> <span style="color: green;">✅ Yes</span></label>
+        <label><input type="radio" name="n1" value="0"> <span style="color: rgb(195, 40, 58);">❌ No</span></label>
+      </div>
+      <button class="submit-btn" onclick="nextQuestion(0, this.parentElement)">Next</button>
+    </div>
+
+    <div class="question">
+      <p><b>Paragraph:</b> </p>
+      <p>${q2_response}</p>
+      <p><b>Statement:</b></p>
+      <p>${q2_nugget_text}</p>
+      <p>Is the statement covered in the paragraph?</p>
+      <div class="options">
+        <label><input type="radio" name="n2" value="1" required> <span style="color: green;">✅ Yes</span></label>
+        <label><input type="radio" name="n2" value="0"> <span style="color: rgb(195, 40, 58);">❌ No</span></label>
+      </div>
+      <button class="submit-btn" onclick="nextQuestion(1, this.parentElement)">Next</button>
+    </div>
+
+
+    <div class="question">
+      <p><b>Paragraph:</b> </p>
+      <p>${q3_response}</p>
+      <p><b>Statement:</b></p>
+      <p>${q3_nugget_text}</p>
+      <p>Is the Statement covered in the paragraph?</p>
+      <div class="options">
+        <label><input type="radio" name="n3" value="1" required> <span style="color: green;">✅ Yes</span></label>
+        <label><input type="radio" name="n3" value="0"> <span style="color: rgb(195, 40, 58);">❌ No</span></label>
+      </div>
+      <button class="submit-btn" onclick="nextQuestion(2, this.parentElement)">Next</button>
+    </div>
+
+    <div class="question">
+      <p><b>Paragraph:</b> </p>
+      <p>${q4_response}</p>
+      <p><b>Statement:</b></p>
+      <p>${q4_nugget_text}</p>
+      <p>Is the Statement covered in the paragraph?</p>
+      <div class="options">
+        <label><input type="radio" name="n4" value="1" required> <span style="color: green;">✅ Yes</span></label>
+        <label><input type="radio" name="n4" value="0"> <span style="color: rgb(195, 40, 58);">❌ No</span></label>
+      </div>
+      <button class="submit-btn" onclick="nextQuestion(3, this.parentElement)">Next</button>
+    </div>
+ 
+    <div class="question">
+      <p><b>Paragraph:</b> </p>
+      <p>${q5_response}</p>
+      <p><b>Statement:</b></p>
+      <p>${q5_nugget_text}</p>
+      <p>Is the Statement covered in the paragraph?</p>
+      <div class="options">
+        <label><input type="radio" name="n5" value="1" required> <span style="color: green;">✅ Yes</span></label>
+        <label><input type="radio" name="n5" value="0"> <span style="color: rgb(195, 40, 58);">❌ No</span></label>
+      </div>
+      <button class="submit-btn" onclick="nextQuestion(4, this.parentElement)">Next</button>
+    </div>
+    
+    <div class="question">
+      <p><b>Paragraph:</b> </p>
+      <p>${q6_response}</p>
+      <p><b>Statement:</b></p>
+      <p>${q6_nugget_text}</p>
+      <p>Is the Statement covered in the paragraph?</p>
+      <div class="options">
+        <label><input type="radio" name="n6" value="1" required> <span style="color: green;">✅ Yes</span></label>
+        <label><input type="radio" name="n6" value="0"> <span style="color: rgb(195, 40, 58);">❌ No</span></label>
+      </div>
+      <button class="submit-btn" onclick="nextQuestion(5, this.parentElement)">Next</button>
+    </div>
+    
+    <div class="question">
+      <p><b>Paragraph:</b> </p>
+      <p>${q6_response}</p>
+      <p><b>Statement:</b></p>
+      <p>${test-nugget}</p>
+      <p>Is the Statement covered in the paragraph?</p>
+      <div class="options">
+        <label><input type="radio" name="test" value="1" required><span style="color: green;">✅ Yes</span></label>
+        <label><input type="radio" name="test" value="0" > <span style="color: rgb(195, 40, 58);">❌ No</span></label>
+      </div>
+      <button class="submit-btn" onclick="nextQuestion(6, this.parentElement)">Next</button>
+    </div>
+
+
+    <div class="question">
+      <p><b>Paragraph:</b> </p>
+      <p>${q7_response}</p>
+      <p><b>Statement:</b></p>
+      <p>${q7_nugget_text}</p>
+      <p>Is the Statement covered in the paragraph?</p>
+      <div class="options">
+        <label><input type="radio" name="n7" value="1" required> <span style="color: green;">✅ Yes</span></label>
+        <label><input type="radio" name="n7" value="0"> <span style="color: rgb(195, 40, 58);">❌ No</span></label>
+      </div>
+      <button class="submit-btn" onclick="nextQuestion(7, this.parentElement)">Next</button>
+    </div>
+
+
+    <div class="question">
+      <p><b>Paragraph:</b> </p>
+      <p>${q8_response}</p>
+      <p><b>Statement:</b></p>
+      <p>${q8_nugget_text}</p>
+      <p>Is the Statement covered in the paragraph?</p>
+      <div class="options">
+        <label><input type="radio" name="n8" value="1" required> <span style="color: green;">✅ Yes</span></label>
+        <label><input type="radio" name="n8" value="0"> <span style="color: rgb(195, 40, 58);">❌ No</span></label>
+      </div>
+      <button class="submit-btn" onclick="nextQuestion(8, this.parentElement)">Next</button>
+    </div>
+
+
+    <div class="question">
+      <p><b>Paragraph:</b> </p>
+      <p>${q9_response}</p>
+      <p><b>Statement:</b></p>
+      <p>${q9_nugget_text}</p>
+      <p>Is the Statement covered in the paragraph?</p>
+      <div class="options">
+        <label><input type="radio" name="n9" value="1" required><span style="color: green;">✅ Yes</span></label>
+        <label><input type="radio" name="n9" value="0" > <span style="color: rgb(195, 40, 58);">❌ No</span></label>
+      </div>
+      <button class="submit-btn" onclick="nextQuestion(9, this.parentElement)">Next</button>
+    </div>
+
+
+    <div class="question">
+      <p><b>Paragraph:</b> </p>
+      <p>${q10_response}</p>
+      <p><b>Statement:</b></p>
+      <p>${q10_nugget_text}</p>
+      <p>Is the Statement covered in the paragraph?</p>
+      <div class="options">
+        <label><input type="radio" name="n10" value="1" required><span style="color: green;">✅ Yes</span></label>
+        <label><input type="radio" name="n10" value="0" > <span style="color: rgb(195, 40, 58);">❌ No</span></label>
+      </div>
+      <button class="submit-btn" onclick="nextQuestion(10, this.parentElement)">Next</button>
+    </div>
+
+
+
+
+
+    
+
+    <div class="question">
+      <!-- <h3>Done!</h3> -->
+      <p>Thank you for completing the survey!</p>
+      <p>Please press the button below to submit your task</p>
+    </div>
+
+  </div>
+
+  <script>
+    // function nextQuestion(currentIndex) {
+    //     let questions = document.querySelectorAll('.question');
+    //     if (currentIndex < questions.length - 1) {
+    //         questions[currentIndex].classList.remove('active');
+    //         questions[currentIndex + 1].classList.add('active');
+    //     }
+    // }
+
+    function nextQuestion(currentIndex, questionElement) {
+      // Get all radio inputs within the current question
+      let radioes = questionElement.querySelectorAll('input[type="radio"]');
+      let isChecked = false;
+      
+      // Check if at least one radio is selected
+      radioes.forEach(function(radio) {
+        if (radio.checked) {
+          isChecked = true;
+        }
+      });
+      
+      if (!isChecked) {
+        alert("Please select an option before proceeding.");
+        return; // Prevent going to the next question
+      }
+      
+      // If a radio is selected, move to the next question
+      let questions = document.querySelectorAll('.question');
+      if (currentIndex < questions.length - 1) {
+        questions[currentIndex].classList.remove('active');
+        questions[currentIndex + 1].classList.add('active');
+      }
+    }
+</script>
+
+</body>
+</html>
+</crowd-form>

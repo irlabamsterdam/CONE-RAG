@@ -1,0 +1,1 @@
+This folder contains the automatic and manual participants submission runs for TREC iKAT 2024.

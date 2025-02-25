@@ -1,0 +1,1053 @@
+{
+    "0_2": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "If you are an American citizen and planning a trip to Egypt, you will need a visa along with a valid passport",
+                    "Obtaining a visa for Egypt can be done upon arrival at Cairo International Airport or online via the Egyptian Government's official e-visa portal",
+                    "The cost of the visa is $25 USD and can be obtained upon arrival at the bank kiosks before you enter the immigration counters",
+                    "The visa is valid for visits up to 30 days"
+                ],
+                "not-matched": []
+            },
+            "response": "If you are an American citizen and planning a trip to Egypt, you will need a visa along with a valid passport. It is recommended that you visit the State Department website for information on traveling to Egypt. Obtaining a visa for Egypt can be done upon arrival at Cairo International Airport or online via the Egyptian Government's official e-visa portal. The cost of the visa is $25 USD and can be obtained upon arrival at the bank kiosks before you enter the immigration counters and the visa is valid for visits up to 30 days. It is also recommended that you have a copy of your itinerary for travel in Egypt."
+        }
+    },
+    "0_3": {
+        "manual": {
+            "nuggets": {
+                "matched": [],
+                "not-matched": []
+            },
+            "response": ""
+        }
+    },
+    "0_6": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "The safest way to visit Egypt is to apply for an E-Visa for visiting the must see historical sites of Egypt",
+                    "These sites include the famous temples of Karnak and Luxor on the East Bank and the Valleys of the Kings and Queens situated on the West Bank",
+                    "Among the must see historical sites also include the Great Pyramids, together with the Sphinx at the base of the Giza plateau",
+                    "The Sphinx in the only surviving Ancient Wonders of the World",
+                    "The Giza necropolis, situated in the immediate vicinity of the southwestern suburbs of Cairo is probably the most famous ancient site in the world",
+                    "The newly opened Egyptian Museum is a must see visit which has over 120,000 historical artifacts including the contents of King Tutankhamen's tomb discovered in 1922",
+                    "An absolute must see historical site is the Philae Temple complex which is one of the most picturesque in all of Egypt"
+                ],
+                "not-matched": []
+            },
+            "response": "The safest way to visit Egypt is to apply for an E-Visa for visiting the must see historical sites of Egypt. These sites include the famous temples of Karnak and Luxor on the East Bank and the Valleys of the Kings and Queens situated on the West Bank. Among the must see historical sites also include the Great Pyramids, together with the Sphinx at the base of the Giza plateau. The Sphinx in the only surviving Ancient Wonders of the World. The Giza necropolis, situated in the immediate vicinity of the southwestern suburbs of Cairo is probably the most famous ancient site in the world. The newly opened Egyptian Museum is a must see visit which has over 120,000 historical artifacts including the contents of King Tutankhamen's tomb discovered in 1922. An absolute must see historical site is the Philae Temple complex which is one of the most picturesque in all of Egypt."
+        }
+    },
+    "0_8": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "One is the newly opened Grand Egyptian Museum which contains more than 120,000 objects that includes colossal statues and royal mummies to papyrus scrolls, intricate jewelry, and even toys from long ago",
+                    "The other gallery located in Cairo is the Museum of Modern Egyptian Art which is also known as the Gezira Center for Modern Art",
+                    "This gallery is Egypt's main modern art museum and is part of the National Cultural Center, along with the Cairo Opera House"
+                ],
+                "not-matched": []
+            },
+            "response": "Two galleries located in Cairo, Egypt have exceptional exhibits. One is the newly opened Grand Egyptian Museum which contains more than 120,000 objects that includes colossal statues and royal mummies to papyrus scrolls, intricate jewelry, and even toys from long ago. Of particular interest to me are the contents of Tutankhamen's burial site which was discovered in 1922. The other gallery located in Cairo is the Museum of Modern Egyptian Art which is also known as the Gezira Center for Modern Art. This gallery is Egypt's main modern art museum and is part of the National Cultural Center, along with the Cairo Opera House."
+        }
+    },
+    "0_10": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "There are a number of excellent places to stay in Cairo close to the Nile River",
+                    "Sofitel Cairo Nile El Gezirah",
+                    "Four Seasons Hotel",
+                    "Nile Ritz0Carlton",
+                    "Garden Season Hotel",
+                    "Nile City Towers",
+                    "Sheraton Cairo",
+                    "Cairo Marriott Hotel",
+                    "Helen Nile Roda",
+                    "the Ramses Hilton",
+                    "the Royal Maxim Palace Kaminski Cairo"
+                ],
+                "not-matched": []
+            },
+            "response": "There are a number of excellent places to stay in Cairo close to the Nile River. The following accommodations have been suggested as prime locations which offer panoramic views of the Nile River: Sofitel Cairo Nile El Gezirah, Four Seasons Hotel, Nile Ritz0Carlton, Garden Season Hotel, Nile City Towers, Sheraton Cairo, Cairo Marriott Hotel, Helen Nile Roda, the Ramses Hilton, and the Royal Maxim Palace Kaminski Cairo."
+        }
+    },
+    "0_11": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "The iconic Nile Ritz-Carlton Cairo is located between the Nile River, Tahrir Square and adjacent to the Egyptian Museum and therefore within walking distance"
+                ],
+                "not-matched": []
+            },
+            "response": "The iconic Nile Ritz-Carlton Cairo is located between the Nile River, Tahrir Square and adjacent to the Egyptian Museum and therefore within walking distance."
+        }
+    },
+    "1_1": {
+        "manual": {
+            "nuggets": {
+                "matched": [],
+                "not-matched": []
+            },
+            "response": ""
+        }
+    },
+    "1_2": {
+        "manual": {
+            "nuggets": {
+                "matched": [],
+                "not-matched": []
+            },
+            "response": "the longevity and profile diversity of perfumes might be limited when you look into ones with alcohol substitutes,"
+        }
+    },
+    "1_3": {
+        "manual": {
+            "nuggets": {
+                "matched": [],
+                "not-matched": []
+            },
+            "response": "I have sensitive skin."
+        }
+    },
+    "1_4": {
+        "manual": {
+            "nuggets": {
+                "matched": [],
+                "not-matched": []
+            },
+            "response": ""
+        }
+    },
+    "1_6": {
+        "manual": {
+            "nuggets": {
+                "matched": [],
+                "not-matched": []
+            },
+            "response": ""
+        }
+    },
+    "1_7": {
+        "manual": {
+            "nuggets": {
+                "matched": [],
+                "not-matched": []
+            },
+            "response": ""
+        }
+    },
+    "1_8": {
+        "manual": {
+            "nuggets": {
+                "matched": [],
+                "not-matched": []
+            },
+            "response": ""
+        }
+    },
+    "1_9": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "The top notes of Chanel No.5 are ylang ylang, bergamot, neroli, lemon, and aldehydes",
+                    "The middle notes are lily of the valley, rose, orris root, iris, and jasmine",
+                    "The base notes are moss, patchouli, civet, sandalwood, vanilla, musk, amber, and vetiver",
+                    "One of the strongest floral notes in this fragrance is that of ylang ylang, which gives off a mysterious and beautiful scent",
+                    "When the fragrance starts to dry down, hints of woody notes and amber can be detected",
+                    "This fragrance mainly stays as a fresh and aldehydic floral fragrance"
+                ],
+                "not-matched": []
+            },
+            "response": "Chanel No. 5 was the world\u2019s first abstract fragrance, which incorporated more than 80 ingredients in a complex, multi-layered formulation process that uses aldehydes to heighten the scents and give an airy nature to the floral notes. The top notes of Chanel No.5 are ylang ylang, bergamot, neroli, lemon, and aldehydes. The middle notes are lily of the valley, rose, orris root, iris, and jasmine. The base notes are moss, patchouli, civet, sandalwood, vanilla, musk, amber, and vetiver. Fresh hints of floral notes, supported by an aldehydic undertone make for a truly stunning opening. One of the strongest floral notes in this fragrance is that of ylang ylang, which gives off a mysterious and beautiful scent. When the fragrance starts to dry down, hints of woody notes and amber can be detected, however, this fragrance mainly stays as a fresh and aldehydic floral fragrance. \nChanel No.5 might be one of the most versatile Chanel fragrances out there. It is a beautiful fragrance that you can easily wear all year long. There are no restrictions on wearing this fragrance. The crowd-pleasing scent works great in a casual setting, but it will work just as nice in a formal setting. It would be appropriate for a primary school classroom, and it is available in three intensities. If you travel to Paris, you could purchase any of the Chanel No. 5 variants in a duty-free shop and save some money on a classic perfume."
+        }
+    },
+    "4_3": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "Depression is in part psychological with symptoms including lack of energy, lack of interest, negative thinking, irritability , frustration, and feelings of sadness, emptiness, irritability and in some cases a wish to cause themselves bodily harm"
+                ],
+                "not-matched": []
+            },
+            "response": "While there are many factors that contribute to depression, there is no real clear factor/evidence that can definitely explain why a certain individual can become depressed. Depression is the biggest mental health disorder globally. There is no one set way to feel when you have depression because it can often come on gradually making it difficult to notice something is wrong. Everyone will experience some depression differently in severity depending on the type. Usually, people with depression have at least 5 symptoms that occur every day for at least two weeks in a row. At least one of these symptoms must be depressed mood or loss of interest. Depression is an umbrella term used to refer to a psychological condition that requires medical treatment. Symptoms of depression can cause both psychological and physical symptoms. Depression can be triggered by your personal situation, a recent or old trauma, or any stressful situation, but it can also be triggered for no obvious reason at all. Depression is in part psychological with symptoms including lack of energy, lack of interest, negative thinking, irritability , frustration, and feelings of sadness, emptiness, irritability and in some cases a wish to cause themselves bodily harm. Recognizing these signs and symptoms is an important step toward getting the care you need. Treatment includes physical and psychiatric work up to determine if medicine should be prescribed. Depression is a treatable condition that has a high rate of success. If left untreated, depression can result in a reduced quality of life."
+        }
+    },
+    "4_7": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "avoiding contact with friends and taking part in fewer social activities",
+                    "neglecting your hobbies and interests",
+                    "having difficulties in your home, work, or family life"
+                ],
+                "not-matched": []
+            },
+            "response": "I enjoy spending time with friends and family.\nI want to get a gym subscription.\n\n Social symptoms of depression include avoiding contact with friends and taking part in fewer social activities, neglecting your hobbies and interests, and having difficulties in your home, work, or family life. Depression can often come on gradually, so it can be difficult to notice something is wron"
+        }
+    },
+    "4_9": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "Grief and depression can look very similar, but they are quite different",
+                    "Grief is an emotional response that tends to decrease with time and often doesn't require professional support",
+                    "Depression is a psychiatric disorder that tends to last longer and symptoms may impact all aspects of your life",
+                    "Grief is a response to a significant loss such as a loved one, job loss, death or loss of a pet",
+                    "Depression not associated with grief includes suicidal thoughts, despair, hopelessness and unable to go about daily life",
+                    "Depression is classified as a formal health condition that requires diagnosis and treatment."
+                ],
+                "not-matched": []
+            },
+            "response": "Mental health\nGrief and depression can look very similar, but they are quite different. In fact many of the symptoms of grieving and depression overlap and can be very difficult to distinguish. Grief is an emotional response that tends to decrease with time and often doesn't require professional support while depression is a psychiatric disorder that tends to last longer and symptoms may impact all aspects of your life Grief is a response to a significant loss such as a loved one, job loss, death or loss of a pet. Depression not associated with grief includes suicidal thoughts, despair, hopelessness and unable to go about daily life and is classified as a formal health condition that requires diagnosis and treatment."
+        }
+    },
+    "4_17": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "The number of bananas containing the same magnesium content, specifically 77mg in turn 17, was 0"
+                ],
+                "not-matched": []
+            },
+            "response": "The number of bananas containing the same magnesium content, specifically 77mg in turn 17, was 0. However, medium sized bananas provide 32mg of magnesium along with vitamin c and fiber. In addition, the more ripe a banana becomes the more starch will convert to sugar. The banana is among the most consumed fruits worldwide that is rich in magnesium. One drawback to eating bananas on an empty stomach causes magnesium and potassium in the blood to rise suddenly, leading to electrolyte disturbances in the body and negatively affecting the blood supply of the heart."
+        }
+    },
+    "5_5": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "dark chocolate",
+                    "beef",
+                    "veal",
+                    "pork",
+                    "lamb",
+                    "chickpeas",
+                    "lentils",
+                    "nuts",
+                    "seeds"
+                ],
+                "not-matched": []
+            },
+            "response": "For food high in Copper, soy products, egg yolks, pumpkin seeds, wheat germ, veal, liver poultry, dark meat chicken, mushrooms, and leafy green vegetables. \nFor food high in Zinc, dark chocolate, meat such as beef, veal, pork, lamb, chickpeas, lentils, nuts, and seeds."
+        }
+    },
+    "5_10": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "There are some old wives' tales about hair loss, most of which are false",
+                    "Wearing a hat may give you \"hat hair\", but it does not lead to hair loss",
+                    "Neither does swimming in chlorinated poo; or salt water",
+                    "Hair dryers may cause your hair to be more brittle, but they won't lead to permanent hair loss",
+                    "Another example is that shampooing damages your hair among the many myths"
+                ],
+                "not-matched": []
+            },
+            "response": "There are some old wives' tales about hair loss, most of which are false. For Example: Wearing a hat may give you \"hat hair\", but it does not lead to hair loss. Neither does swimming in chlorinated poo; or salt water. Hair dryers may cause your hair to be more brittle, but they won't lead to permanent hair loss. Another example is that shampooing damages your hair among the many myths."
+        }
+    },
+    "5_14": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "Yes, you can safely use finasteride and minoxidil at the same time",
+                    "Studies show that using these medications together will likely yield better results than using just one medication to treat hair loss"
+                ],
+                "not-matched": []
+            },
+            "response": "Yes, you can safely use finasteride and minoxidil at the same time. Studies show that using these medications together will likely yield better results than using just one medication to treat hair loss."
+        }
+    },
+    "6_3": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "Serums containing salicylic, glycolic or ascorbic acid, green tea or licorice root are good for acne",
+                    "non-oily moisturizers are preferred for oily-prone skin for nighttime use"
+                ],
+                "not-matched": []
+            },
+            "response": "Serums containing salicylic, glycolic or ascorbic acid, green tea or licorice root are good for acne and non-oily moisturizers are preferred for oily-prone skin for nighttime use. Heavier creams are better for moisturizing at night."
+        }
+    },
+    "6_11": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "Sunscreen for oily, acne prone skin should be non-oily, preferably lightweight or gel based",
+                    "The sunscreen should have a moisturizer in it and be non-alcoholic to combat the dehydrated skin",
+                    "It should also be broad spectrum, to block UVA and UVB rays and preferably mineral based and non-comedogenic so it does not block the pores and cause acne"
+                ],
+                "not-matched": []
+            },
+            "response": "Sunscreen for oily, acne prone skin should be non-oily, preferably lightweight or gel based. The sunscreen should have a moisturizer in it and be non-alcoholic to combat the dehydrated skin. It should also be broad spectrum, to block UVA and UVB rays and preferably mineral based and non-comedogenic so it does not block the pores and cause acne."
+        }
+    },
+    "6_14": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "UV-A appears to be the more harmful of the two",
+                    "It accounts for 95% of the UV waves that get through the atmosphere",
+                    "can penetrate deeper into the layers of the skin",
+                    "It is responsible for skin aging and wrinkling",
+                    "Because they travel deeper into the skin they can cause more mutations in the DNA"
+                ],
+                "not-matched": []
+            },
+            "response": "While there is still research to do on the subject and some scientists may disagree, UV-A appears to be the more harmful of the two. It accounts for 95% of the UV waves that get through the atmosphere, and can penetrate deeper into the layers of the skin. It is responsible for skin aging and wrinkling. Because they travel deeper into the skin they can cause more mutations in the DNA."
+        }
+    },
+    "6_16": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "Both are recommended for acne-prone skin and are non-oily",
+                    "La Roche-Posay Anthelios Anti-Shine Sun Cream Gel 50+",
+                    "Anthelios 60 Cooling Sunscreen with is also go for hydrating the skin",
+                    "Anthelios Clear Skin Dry Touch Sunscreen SPF 60, Oil Free Face Sunscreen for Acne Prone Skin"
+                ],
+                "not-matched": [
+                ]
+            },
+            "response": "There are a few sunscreens that match your requirements. La Roche-Posay Anthelios Activewear Lotion Sport Body Sunscreen SPF 60, for the body, and the Anthelios Clear Skin Dry Touch Sunscreen SPF 60, Oil Free Face Sunscreen for Acne Prone Skin, come to mind. Both are recommended for acne-prone skin and are non-oily. Another two that can be recommended are the La Roche-Posay Anthelios Anti-Shine Sun Cream Gel 50+ and the Anthelios 60 Cooling Sunscreen with is also go for hydrating the skin."
+        }
+    },
+    "7_2": {
+        "manual": {
+            "nuggets": {
+                "matched": [],
+                "not-matched": []
+            },
+            "response": "Double cleansing can be done with the correct products. You want a cleansing product rich in fatty oils for the first step, which will remove the makeup. Then a water based cleaner to remove the first product."
+        }
+    },
+    "7_3": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "double cleansing works much better to remove all the makeup and grime on the face",
+                    "The first wash, with an oil based product, gently removes the makeup,",
+                    "the second wash, with a water based product, gently removes the residue from the first wash and cleans the pores",
+                    "For a single cleaning to perform the same work, one would have to scrub or use a much stronger product, which can abuse the skin"
+                ],
+                "not-matched": []
+            },
+            "response": "While a single wash of the face works well on the face when it does not have makeup or sunscreen on it, double cleansing works much better to remove all the makeup and grime on the face. The first wash, with an oil based product, gently removes the makeup, and the second wash, with a water based product, gently removes the residue from the first wash and cleans the pores. For a single cleaning to perform the same work, one would have to scrub or use a much stronger product, which can abuse the skin."
+        }
+    },
+    "7_4": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "A double cleansing is not necessary in the morning because you just performed it the night before",
+                    "It also tends to dry out the skin too much when you clean the skin too often, especially for those with dry or sensitive skin"
+                ],
+                "not-matched": []
+            },
+            "response": "A double cleansing is not necessary in the morning because you just performed it the night before. It also tends to dry out the skin too much when you clean the skin too often, especially for those with dry or sensitive skin."
+        }
+    },
+    "7_12": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "The best alternative for dry skin is toners containing hyaluronic acid",
+                    "Other ingredients that are good for dry skin are glycerin, allantoin and rose water"
+                ],
+                "not-matched": []
+            },
+            "response": "The best alternative for dry skin is toners containing hyaluronic acid. Other ingredients that are good for dry skin are glycerin, allantoin and rose water. They are all mild and hydrating."
+        }
+    },
+    "7_15": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "There are basically three types of toners: hydrating, exfoliating and treatment"
+                ],
+                "not-matched": []
+            },
+            "response": "There are basically three types of toners: hydrating, exfoliating and treatment. The treatment type may treat acne, sunburn or other skin issues."
+        }
+    },
+    "7_16": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "Treatment toners are usually sold as anti-aging, soothing or brightening toners",
+                    "They are formulated with vitamin C, allantoin, aloe vera or other mild ingredients to soothe skin and relieve redness or irritation"
+                ],
+                "not-matched": []
+            },
+            "response": "Treatment toners are usually sold as anti-aging, soothing or brightening toners. They are formulated with vitamin C, allantoin, aloe vera or other mild ingredients to soothe skin and relieve redness or irritation."
+        }
+    },
+    "8_3": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "Other types include Electric bikes, Mountain bikes (MTB), Hybrid bikes, BMX bikes"
+                ],
+                "not-matched": []
+            },
+            "response": "There are many different types. Here are the most popular types: Other types include Electric bikes, Mountain bikes (MTB), Hybrid bikes, BMX bikes, and City Bikes. Do you need to hear more about them? or any specific one?"
+        }
+    },
+    "8_5": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "Mountain bikes (MTBs) have large tires that grip the surface",
+                    "They are tough and puncture-resistant, making riding on technical tracks easier",
+                    "Big tires are also good for long trail travel",
+                    "Moreover, bigger tires make riding on technical tracks easier and more comfortable",
+                    "Big tires provide the biker with more stability and shock absorption, making it easier to ride in snow, sand, dirt, city roads, and mud"
+                ],
+                "not-matched": []
+            },
+            "response": "Mountain bikes (MTBs) have large tires that grip the surface. They are tough and puncture-resistant, making riding on technical tracks easier. Big tires are also good for long trail travel. Moreover, bigger tires make riding on technical tracks easier and more comfortable. Big tires provide the biker with more stability and shock absorption, making it easier to ride in snow, sand, dirt, city roads, and mud."
+        }
+    },
+    "8_7": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "The two main types of mountain bikes are 'hardtail' and ' full suspension,",
+                    "a hardtail only has suspension in the front forks",
+                    "a full suspension has front and rear suspension",
+                    "Hardtail bikes are less expensive and lighter than full suspension"
+                ],
+                "not-matched": []
+            },
+            "response": "The two main types of mountain bikes are 'hardtail' and ' full suspension,' The most notable difference between the two is that a hardtail only has suspension in the front forks while a full suspension has front and rear suspension. Hardtail bikes are less expensive and lighter than full suspension."
+        }
+    },
+    "8_10": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "city bikes, as the name suggests, are built for riding in the city",
+                    "They have clean, spare frames without a ton of doodads or suspension",
+                    "They have few gears and have back or front frames for the transport of items",
+                    "They are good for short-distance comfort, instead of speed or efficiency",
+                    "They normally have a slightly curved, roughly planar aligned, and elevated handlebar, providing users with an upright sitting position"
+                ],
+                "not-matched": []
+            },
+            "response": "Sure, city bikes, as the name suggests, are built for riding in the city. They have clean, spare frames without a ton of doodads or suspension. They have few gears and have back or front frames for the transport of items. \nThey are good for short-distance comfort, instead of speed or efficiency. They normally have a slightly curved, roughly planar aligned, and elevated handlebar, providing users with an upright sitting position."
+        }
+    },
+    "8_12": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "For riding in the city, a bike with a suspension frame may not be a necessity",
+                    "if one wants to explore the wild while living in the city, it would be helpful"
+                ],
+                "not-matched": []
+            },
+            "response": "For riding in the city, a bike with a suspension frame may not be a necessity. \nHowever, if one wants to explore the wild while living in the city, it would be helpful."
+        }
+    },
+    "9_2": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "Use train, boat, bus, shared car, bike or walk rather than airplanes",
+                    "If flying is unavoidable, 30+ IATA (International Air Transport Association) member airlines offer carbon offset programs",
+                    "Take direct flights wherever possible",
+                    "Newer plane models (such as Boeing\u2019s 787 Dreamliner) are designed to consume up to 20 percent less fuel",
+                    "MyClimate.Org will calculate how many tons of carbon waste your journey will create and allow you to donate money to a sustainable project of your choice",
+                    "Many car rental companies, bus lines, train lines and airlines (JetBlue, Amtrak and Budget Avis are a few) allow passengers to buy carbon offsets to counteract the pollution from these trips",
+                    "Stay in LEED-certified hotels and ask them not to change your sheets and towels every day",
+                    "Turn off air conditioning, heater and electronic gadgets when you leave your room",
+                    "Travel with reusables such as water bottles, straws, and tote bags",
+                    "Use websites like BookDifferent and Eco BnB to find environmentally responsible lodging",
+                    "Pay more for tourism products and services that are environmentally friendly",
+                    "Opt for \u201cgreen\u201d and eco-friendly tours",
+                    "Eat locally sourced and plant-based foods",
+                    "Spread awareness on sustainable tourism"
+                ],
+                "not-matched": []
+            },
+            "response": "Reuse, Reduce and Recycle No matter where you travel in the world. Avoid cruises and all-inclusive resorts, which are prone to waste. Use train, boat, bus, shared car, bike or walk rather than airplanes. If you\u2019re traveling in Europe, you can use BlaBla Car. If flying is unavoidable, 30+ IATA (International Air Transport Association) member airlines offer carbon offset programs. Take direct flights wherever possible. Newer plane models (such as Boeing\u2019s 787 Dreamliner) are designed to consume up to 20 percent less fuel. MyClimate.Org will calculate how many tons of carbon waste your journey will create and allow you to donate money to a sustainable project of your choice. Many car rental companies, bus lines, train lines and airlines (JetBlue, Amtrak and Budget Avis are a few) allow passengers to buy carbon offsets to counteract the pollution from these trips. Stay in LEED-certified hotels and ask them not to change your sheets and towels every day. Turn off air conditioning, heater and electronic gadgets when you leave your room. Travel with reusables such as water bottles, straws, and tote bags. Use websites like BookDifferent and Eco BnB to find environmentally responsible lodging. Pay more for tourism products and services that are environmentally friendly. Opt for \u201cgreen\u201d and eco-friendly tours. Eat locally sourced and plant-based foods. Spread awareness on sustainable tourism."
+        }
+    },
+    "9_6": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "Bahnhofstrasse is the shopping mecca in the city and the most expensive in the world",
+                    "At Lake Z\u00fcrich you can stroll along the promenade or take a cruise",
+                    "There are almost 30 bathing areas, and local beaches are well-equipped with rentals",
+                    "In summer, visitors can hike on many mountain trails like the Path of Planets",
+                    "Walk up Uetliberg in the Albis Chain, and you\u2019ll experience breathtaking views of the region"
+                ],
+                "not-matched": []
+            },
+            "response": "The largest city and a major transportation hub, Zurich lies at the northwestern end of Lake Zurich. Zurich is a pretty and well-designed city, and the main area you\u2019ll want to see is the Old Town. This area is very photogenic with beautiful architecture, the Limmat river, famous churches such as theGrossm\u00fcnster, St. Peter and Fraum\u00fcnster and the impressive Lake Zurich. Zurich is eminently walkable, has excellent public transit and a free bike rental system. Bahnhofstrasse is the shopping mecca in the city and the most expensive in the world.\nAt Lake Z\u00fcrich you can stroll along the promenade or take a cruise. There are almost 30 bathing areas, and local beaches are well-equipped with rentals. In summer, visitors can hike on many mountain trails like the Path of Planets. Walk up Uetliberg in the Albis Chain, and you\u2019ll experience breathtaking views of the region. In winter, you can explore Zurich\u2019s best Christmas markets. The largest is at Sechsel\u00e4utenplatz, in front of the Opera House, while the oldest is in the old town of Altstadt.\nAltstadt has historic buildings including the Romanesque-style church, Grossm\u00fcnster; the Church of Our Lady with windows by Marc Chagall; and the Rathaus (town hall). Zurich has numerous art galleries, museums, an opera house, and entertainment venues. It is also the largest chocolate producing region in the country."
+        }
+    },
+    "9_9": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "The fastest journey time by train from London to Zurich Hb is 7 hours and 21 minutes",
+                    "Average time is 9h 2m",
+                    "Ticket prices from can start from as little as \u20ac79 for a Standard Class ticket when you book in advance",
+                    "There are no direct trains from London to Zurich Hb",
+                    "Travelling by train will require a minimum of one change",
+                    "If you go via Paris, you will arrive at Gare de Nord",
+                    "You will need to transfer to Gare de Lyon for a train to Zurich",
+                    "The first part of the journey involves the Eurostar under the Channel Tunnel",
+                    "You\u2019ll board at London St Pancras International for a two-hour journey to Paris Gare du Nord",
+                    "You will transfer to Gare de Lyon, half a dozen stops and one metro line away, to board the TGV Lyria train to Zurich",
+                    "Tickets cost SFr 95 - SFr 130 and the journey takes 4h 4m",
+                    "An alternate route is to take the Eurostar to Brussels Midi, which is the same station as the train to Zurich",
+                    "The journey is approximately seven hours on a TGV Lyria or Deutsche Bahn train"
+                ],
+                "not-matched": []
+            },
+            "response": "The peak months to visit Zurich are during summer \u2013 June to August. Though the weather is pleasant, everything is expensive, including accommodations, and the city is crowded as these are the months of mass tourist visits. \nThe fastest journey time by train from London to Zurich Hb is 7 hours and 21 minutes. Average time is 9h 2m, a distance of around 480 miles (773 km). The journey time may be longer on weekends and holidays. There are normally 16 trains per day. Ticket prices from can start from as little as \u20ac79 for a Standard Class ticket when you book in advance. Most of the train companies across Europe release their tickets around three to six months in advance; you may be able to find some cheaper fares by booking early.\nThere are no direct trains from London to Zurich Hb. Travelling by train will require a minimum of one change. If you go via Paris, you will arrive at Gare de Nord. You will need to transfer to Gare de Lyon for a train to Zurich. \nThe first part of the journey involves the Eurostar under the Channel Tunnel. You\u2019ll board at London St Pancras International for a two-hour journey to Paris Gare du Nord. You will transfer to Gare de Lyon, half a dozen stops and one metro line away, to board the TGV Lyria train to Zurich. Tickets cost SFr 95 - SFr 130 and the journey takes 4h 4m. An alternate route is to take the Eurostar to Brussels Midi, which is the same station as the train to Zurich. The journey is approximately seven hours on a TGV Lyria or Deutsche Bahn train."
+        }
+    },
+    "9_11": {
+        "manual": {
+            "nuggets": {
+                "matched": [],
+                "not-matched": []
+            },
+            "response": ""
+        }
+    },
+    "9_13": {
+        "manual": {
+            "nuggets": {
+                "matched": [],
+                "not-matched": []
+            },
+            "response": ""
+        }
+    },
+    "10_1": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "First and foremost, you need to use the USDA Plant Hardiness Zone Map to know which plants grow best in your area",
+                    "In order to start planning to grow plants outside it is important to plot the plants on a map and begin arranging the crops leaving enough space to give each plant room to grow",
+                    "Do some research on which plants and flowers compliment each other and how many plants you can grow in a specific area",
+                    "If new to gardening you should start with things that are easy to grow and that you often use in your meals, like salad greens, parsley, cilantro, dill, chives, basil, tarragon, tarragon, rosemary, oregano, sage, and mints"
+                ],
+                "not-matched": []
+            },
+            "response": "First and foremost, you need to use the USDA Plant Hardiness Zone Map to know which plants grow best in your area. In order to start planning to grow plants outside it is important to plot the plants on a map and begin arranging the crops leaving enough space to give each plant room to grow. Do some research on which plants and flowers compliment each other and how many plants you can grow in a specific area. If new to gardening you should start with things that are easy to grow and that you often use in your meals, like salad greens, parsley, cilantro, dill, chives, basil, tarragon, tarragon, rosemary, oregano, sage, and mints."
+        }
+    },
+    "10_2": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "Prior to begin growing a large vegetable garden outside in the State of Florida, it is recommended to refer to the \"Florida Vegetable Gardening Guide\" and its list of suggested varieties",
+                    "Close attention should be paid to growing vegetables that are native to Florida such as: avocados (June through January), bananas (August through October), blueberries (April through June), and broccoli (October through May)"
+                ],
+                "not-matched": []
+            },
+            "response": "Prior to begin growing a large vegetable garden outside in the State of Florida, it is recommended to refer to the \"Florida Vegetable Gardening Guide\" and its list of suggested varieties. Florida is ranked first in the country in value of production of cucumbers, grapefruit, squash, sugarcane, snap beans and fresh tomatoes. Florida ranked second in production of bell peppers, strawberries, watermelons, cabbage and sweet corn. Close attention should be paid to growing vegetables that are native to Florida such as: avocados (June through January), bananas (August through October), blueberries (April through June), and broccoli (October through May)."
+        }
+    },
+    "10_3": {
+        "manual": {
+            "nuggets": {
+                "matched": [],
+                "not-matched": []
+            },
+            "response": ""
+        }
+    },
+    "10_6": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "There are many recipes for a vegetarian diet and one of the easiest to prepare is known as Caprese salad which consists of tomato and mozzarella cheese",
+                    "Another easily prepared and healthy vegetarian salad is the combination of tomato, cucumber slices, bell peppers, baby spinach, lettuce, spring onion or radishes",
+                    "For a warm vegetarian meal, check out a variety of veggie stew recipes that contain beans, tomato and spinach"
+                ],
+                "not-matched": []
+            },
+            "response": "There are many recipes for a vegetarian diet and one of the easiest to prepare is known as Caprese salad which consists of tomato and mozzarella cheese. Another easily prepared and healthy vegetarian salad is the combination of tomato, cucumber slices, bell peppers, baby spinach, lettuce, spring onion or radishes. Recipes in the category of classic vegetarian Mediterranean diet consist of a variety of fresh vegetables combined with olives and olive oil. For a warm vegetarian meal, check out a variety of veggie stew recipes that contain beans, tomato and spinach. Another popular vegan recipe, known as frittata, contains your favorite fresh vegetables combined with eggs and cheese. It is important that if you suffer from any allergies, such as corn or peanuts, that you use only fresh ingredients to avoid inadvertent anaphylactic shock."
+        }
+    },
+    "10_7": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "The Florida vegetable Gardening Guide",
+                    "the UF/IFAS publication Natural Products for Managing Landscape and Garden Pests in Florida",
+                    "crop rotation",
+                    "companion planting strategies",
+                    "knowing which varieties of beans, tomatoes, and cucumbers are disease-resistant",
+                    "mechanical control which includes barriers, covers, high pressure water sprays and hand-picking pests from vegetables"
+                ],
+                "not-matched": []
+            },
+            "response": "When beginning a vegetable garden in South Florida it is important to consult these two publications: The Florida vegetable Gardening Guide, and the UF/IFAS publication Natural Products for Managing Landscape and Garden Pests in Florida. It is important to become familiar with natural solutions to avoid disease and vegetable pests, such as crop rotation, companion planting strategies, and knowing which varieties of beans, tomatoes, and cucumbers are disease-resistant. Another natural control methodology fall in the category of mechanical control which includes barriers, covers, high pressure water sprays and hand-picking pests from vegetables."
+        }
+    },
+    "10_8": {
+        "manual": {
+            "nuggets": {
+                "matched": [],
+                "not-matched": []
+            },
+            "response": ""
+        }
+    },
+    "10_12": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "the best way to lower the pH is to use natural compounds, such as manure, pine needles or composite",
+                    "Other natural products include pine needles. sphagnum peat moss, and coffee grounds"
+                ],
+                "not-matched": []
+            },
+            "response": "First steps in making a determination regarding a decision to reduce the pH of soil in your garden is to either purchase a pH testing kit, or take a soil sample to an IFAS Extension Soil Testing Laboratory. Once a determination has been made that the soil is too alkaline and the pH needs to be reduced, the best way to lower the pH is to use natural compounds, such as manure, pine needles or composite. Other natural products include pine needles. sphagnum peat moss, and coffee grounds."
+        }
+    },
+    "11_2": {
+        "manual": {
+            "nuggets": {
+                "matched": [],
+                "not-matched": []
+            },
+            "response": "3: I like to walk around my house, but I tend to lose myself.\n8: I live in a small condo in a senior living community.\n22: I have moderate mobility issues and use a cane for support."
+        }
+    },
+    "11_3": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "There are several levels of bathroom safety measures for seniors with mobility issues",
+                    "The safest and most expensive includes walk-in tubs and showers, and replacement of tile floors",
+                    "The next safety level includes bathroom grab bars",
+                    "Installing grab bars throughout the bathroom, including at the entry to the shower or tub, in the shower or tub, and near the toilet",
+                    "Other cost-effective measures are bath and shower seating and a raised toilet",
+                    "A transfer bench straddles the edge of the tub and makes getting in and out easier for mobility-challenged individuals",
+                    "There is a range of inside-the-tub and shower chairs and stools and wheeled shower commodes",
+                    "Shower stools are a good option if space is too small for a chair",
+                    "Get a water-resistant medical alert device",
+                    "Make sure your cane has rubber tips",
+                    "A plug-in sensor light provides lighting overnight",
+                    "Switching the bathroom exhaust fan to a timer can help in preventing a fire",
+                    "Make sure that any rug in the bath area is nonskid",
+                    "Keep frequently used items in the same place at all times",
+                    "Whenever possible, use plastic rather than glass containers",
+                    "Buy towels, washcloths, and bathmats that contrast sharply with the tub and tiles",
+                    "Hang towels that contrast with the wall color",
+                    "Put a nonskid mat, friction tape, or patterned appliqu\u00e9s on the bottom of the tub or the floor of the shower"
+                ],
+                "not-matched": []
+            },
+            "response": "There are several levels of bathroom safety measures for seniors with mobility issues, providing a range of options that you can tailor to your needs and budget. The safest and most expensive includes walk-in tubs and showers, and replacement of tile floors. All of these require remodeling contractors and approval of your senior living management. \nThe next safety level includes bathroom grab bars \u2014 Installing grab bars throughout the bathroom, including at the entry to the shower or tub, in the shower or tub, and near the toilet, will be the most cost-effective safety measure you can take. Other cost-effective measures are bath and shower seating and a raised toilet. A transfer bench straddles the edge of the tub and makes getting in and out easier for mobility-challenged individuals. There is a range of inside-the-tub and shower chairs and stools and wheeled shower commodes. Shower stools are a good option if space is too small for a chair. Get a water-resistant medical alert device. \nThe third level includes simple safety precautions in the bathroom. Make sure your cane has rubber tips. A plug-in sensor light provides lighting overnight. Switching the bathroom exhaust fan to a timer can help in preventing a fire. Make sure that any rug in the bath area is nonskid. Keep frequently used items in the same place at all times. Label them. Whenever possible, use plastic rather than glass containers. Buy towels, washcloths, and bathmats that contrast sharply with the tub and tiles. Hang towels that contrast with the wall color. Put a nonskid mat, friction tape, or patterned appliqu\u00e9s on the bottom of the tub or the floor of the shower."
+        }
+    },
+    "11_4": {
+        "manual": {
+            "nuggets": {
+                "matched": [],
+                "not-matched": []
+            },
+            "response": ""
+        }
+    },
+    "11_6": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "Grab bar installation depends on the type of bar and the surface where it will be mounted",
+                    "You will need some of the following: pen or pencil, masking tape, electric drill with bits for tile (one the size of the wall anchors and one smaller for pilot holes), a wood bit for pilot holes into wall studs, hand screwdriver, wall screws to mount into tile and cement board if not mounting into studs, heavy 2 1/2\" wood screws if mounting into wall studs, and silicone shower caulk",
+                    "Always mount grab bars into a stud that sits behind the wall",
+                    "Or, if the stud can\u2019t be located, use an anchoring device",
+                    "If the wall is not tiled, use the heaviest wood screws that will fit into the holes in the grab bar",
+                    "Seal the seams with silicone caulk",
+                    "Fiberglass tub and shower enclosures present a unique challenge",
+                    "You must mount the shower bar to a stud, but the space between the stud and fiberglass must also be filled with something or the fiberglass will bend as you tighten the mounting screws",
+                    "To install a suction type bar, flip the latches so they are in the upright position",
+                    "Firmly push the suction cups against the surface to remove all excess air",
+                    "Push the latches down and make sure both indicators are green",
+                    "Wait a few minutes and test the suction to make sure the bar is secure",
+                    "Suction bars are not as secure as those fastened with screws so test it before each use"
+                ],
+                "not-matched": []
+            },
+            "response": "Grab bar installation depends on the type of bar and the surface where it will be mounted. All but the suction type requires \ntools. You will need some of the following: pen or pencil, masking tape, electric drill with bits for tile (one the size of the wall\n anchors and one smaller for pilot holes), a wood bit for pilot holes into wall studs, hand screwdriver, wall screws to mount into tile and cement board if not mounting into studs, heavy 2 1/2\" wood screws if mounting into wall studs, and silicone shower caulk.\nTiled shower walls are almost always covered by cement board, and a stud finder cannot detect studs through it and the tile. Always mount grab bars into a stud that sits behind the wall. Or, if the stud can\u2019t be located, use an anchoring device. Be sure there is adequate room within the hollow area behind the wall so an anchoring device will work. \nIf the wall is not tiled, use the heaviest wood screws that will fit into the holes in the grab bar. A cordless drill may be needed to drive in the screws. Seal the seams with silicone caulk. Fiberglass tub and shower enclosures present a unique challenge. You must mount the shower bar to a stud, but the space between the stud and fiberglass must also be filled with something or the fiberglass will bend as you tighten the mounting screws. \nTo install a suction type bar, flip the latches so they are in the upright position. Firmly push the suction cups against the surface to remove all excess air. Push the latches down and make sure both indicators are green. Wait a few minutes and test the suction to make sure the bar is secure. Suction bars are not as secure as those fastened with screws so test it before each use.\nYour senior living community may have requirements regarding ADA compliant grab bars and may provide installation at no or \nminimal cost. Even if there is a small service charge, it may be worth it to ensure that the bar is properly installed."
+        }
+    },
+    "11_7": {
+        "manual": {
+            "nuggets": {
+                "matched": [],
+                "not-matched": []
+            },
+            "response": ""
+        }
+    },
+    "11_8": {
+        "manual": {
+            "nuggets": {
+                "matched": [],
+                "not-matched": []
+            },
+            "response": "20: I am allergic to latex.\nI use a cane."
+        }
+    },
+    "11_9": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "If you do fall, try not to panic",
+                    "If you feel able to get up, take your time",
+                    "Roll onto your hands and knees and look for something stable, such as a chair, to hold on to, slowly get up, sit down and rest for a while",
+                    "Unless you suspect a fracture, try to change your position every half an hour or so",
+                    "Attempt to slide yourself to your landline phone or cell phone and call for help",
+                    "If you cannot reach the phone yourself, use your cane",
+                    "Use your medical alert device, if you wear one",
+                    "Experts recommend hitting the button regardless of fall detection to be safe",
+                    "Medical alert systems call for help even if someone cannot reach a phone",
+                    "Many systems come with automatic fall alert that sense impact and report it regardless of whether the senior is able to press a button and speak or not",
+                    "Some fall-detection buttons have some level of water resistance, important in the bathroom",
+                    "Community alarms are designed to be carried with you, either as a pendant or wristband, allowing you to call for help if you can\u2019t reach a telephone",
+                    "An alternative to a call device is to set up some kind of monitoring system, so that a family or community member can notice if you are moving around as usual, or arrange for someone to call you at a specified time each day",
+                    "Fall mats will soften the landing for any fall that occurs, making it much less likely that a senior will encounter broken bones or other serious injuries",
+                    "You can put them in any spots that may be a cause for concern, like the bathroom floor"
+                ],
+                "not-matched": []
+            },
+            "response": "If you do fall, try not to panic. If you feel able to get up, take your time. Roll onto your hands and knees and look for something stable, such as a chair, to hold on to, slowly get up, sit down and rest for a while. Unless you suspect a fracture, try to change your position every half an hour or so. Attempt to slide yourself to your landline phone or cell phone and call for help. If you cannot reach the phone yourself, use your cane. Use your medical alert device, if you wear one. Experts recommend hitting the button regardless of fall detection to be safe. \nMedical alert systems call for help even if someone cannot reach a phone. They often call for help through landline phone service. If you don't have a landline, a cellular in-home communicator is available. Many systems come with automatic fall alert that sense impact and report it regardless of whether the senior is able to press a button and speak or not. Fall alert features are often an additional charge. Some fall-detection buttons have some level of water resistance, important in the bathroom. \n\nSome medical alert systems function as standalone devices, which communicate solely with the company's call center, whereas others can integrate with cell phones that have Bluetooth or GPS. Community alarms are designed to be carried with you, either as a pendant or wristband, allowing you to call for help if you can\u2019t reach a telephone. Community alarms are usually connected with a fixed landline telephone. However, some now connect to mobile telephone networks via a built-in sim card.\n\nLook for clear pricing in a medical alert system. Be sure you understand any fees for monthly monitoring, equipment, activation, cancellation, repair, and fall alert before signing a contract. To learn about medical alert systems, use reviews from trusted sources such as Consumer Reports and AARP. Medicare Part B generally doesn\u2019t cover medical alert systems. Some Medicare health plans, such as certain Medicare Advantage plans, might cover them for primarily health-related issues.\n\nAn alternative to a call device is to set up some kind of monitoring system, so that a family or community member can notice if you are moving around as usual, or arrange for someone to call you at a specified time each day. A relative, friend or staff member in your senior living community may be willing to do this. Fall mats will soften the landing for any fall that occurs, making it much less likely that a senior will encounter broken bones or other serious injuries. You can put them in any spots that may be a cause for concern, like the bathroom floor."
+        }
+    },
+    "11_10": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "Automatic fall detection will immediately notify the medical alert company's monitoring center if a pendant wearer experiences a fall, even if they cannot press the button themselves",
+                    "As long as you have on the wearable device, the fall will trigger help and the medical alert company will take care of contacting emergency responders",
+                    "Once the unit detects a fall, it sends an automatic signal to a call center or 911 directly",
+                    "If the representative tries to reach you through the two-way communication device and cannot hear a response, they call EMTs immediately",
+                    "When a fall is detected, the watch will start an on-screen alert which a user has 60 seconds to disable",
+                    "If the user doesn\u2019t turn this alert off, the watch will call the authorities and notify chosen emergency contacts"
+                ],
+                "not-matched": []
+            },
+            "response": "There are a variety of useful telecare devices: wearable medical alerts such as pendants, watches, motion sensors, and interactive devices such as Alexa. The most reliable solution is to have a wearable medical alert device with automatic fall detection. Automatic fall detection will immediately notify the medical alert company's monitoring center if a pendant wearer experiences a fall, even if they cannot press the button themselves. As long as you have on the wearable device, the fall will trigger help and the medical alert company will take care of contacting emergency responders.\n It which works the same way as airbag deployment in a car. Through a combination of accelerometers, sensors, and algorithms, an equipped help button senses when you fall down. Once the unit detects a fall, it sends an automatic signal to a call center or 911 directly. If the representative tries to reach you through the two-way communication device and cannot hear a response, they call EMTs immediately. \nSmartwatches can now detect hard falls or incidents via modern motion sensors. These sensors can detect if you\u2019ve fallen from a stationary position or mid-movement. When a fall is detected, the watch will start an on-screen alert which a user has 60 seconds to disable. If the user doesn\u2019t turn this alert off, the watch will call the authorities and notify chosen emergency contacts. An Apple Watch will automatically activate fall detection for users aged 65 and older. Other alert services charge an additional fee for fall detection.\nFall detection technology, across brands, isn\u2019t 100 percent accurate, and there are occasional false alarms. There is also a range of prices. A device called V.ALRT has a battery life of up to one year. Priced between $39.99 and $44.99, it is highly affordable. V.ALRT does not have any monthly service fees, meaning a one-time payment is all that is required. MyNotifi\u2019s buttonless fall detection unit costs $99. This wearable device, with a range of up to 100 feet, is ideal for older adults who have a tendency to slip or lose their balance. It can be worn with a belt or shirt clip and will automatically text a customized message and your precise location to emergency contacts, in case of a fall."
+        }
+    },
+    "11_11": {
+        "manual": {
+            "nuggets": {
+                "matched": [],
+                "not-matched": []
+            },
+            "response": ""
+        }
+    },
+    "11_12": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "Mobile medical alert systems can protect users outside their homes",
+                    "Using a cellular connection, these systems can place emergency calls just about anywhere with good reception",
+                    "Mobile systems often are equipped with GPS technology, allowing a call-center agent to relay your location to emergency responders",
+                    "Incident detection \u2014 sometimes called fall detection \u2014 allows your smartwatch to automatically notify selected contacts if any incident or fall is detected while you\u2019re wearing the watch",
+                    "Standalone smartwatches, including a dedicated SIM card, will also offer the possibility to make calls away from home",
+                    "The GPS functionality can send the wearer\u2019s location to the caregiver or service center",
+                    "Almost all smartwatches on the market offer turn-by-turn navigation where one can set a designated destination and the watch will provide instruction on how to get there",
+                    "It can be useful for seniors who have lost orientational capabilities",
+                    "A wearable GPS unit, such as a lanyard, can tag along with you outside the house",
+                    "It sends your location to caregivers and the monitoring center",
+                    "If you get lost and need help or have an accident outside of the home, you can get assistance quickly"
+                ],
+                "not-matched": []
+            },
+            "response": "Mobile medical alert systems can protect users outside their homes. Using a cellular connection, these systems can place emergency calls just about anywhere with good reception. Mobile systems often are equipped with GPS technology, allowing a call-center agent to relay your location to emergency responders. Medical alert smartwatches take all the functions of an on-the-go system and compress them into the discreet profile of a watch. Incident detection \u2014 sometimes called fall detection \u2014 allows your smartwatch to automatically notify selected contacts if any incident or fall is detected while you\u2019re wearing the watch. Bluetooth medical alert systems are relatively new technology.\nStandalone smartwatches, including a dedicated SIM card, will also offer the possibility to make calls away from home. The GPS functionality can send the wearer\u2019s location to the caregiver or service center. Almost all smartwatches on the market offer turn-by-turn navigation where one can set a designated destination and the watch will provide instruction on how to get there. This feature is similar to in-car navigation. It can be useful for seniors who have lost orientational capabilities. \nA wearable GPS unit, such as a lanyard, can tag along with you outside the house. It sends your location to caregivers and the monitoring center. If you get lost and need help or have an accident outside of the home, you can get assistance quickly. It\u2019s a simple lanyard GPS tracking device your loved one can wear comfortably all day in and out of the house. It uses five types of location technology: Wi-Fi, A-GPS, intelligent breadcrumbs, two-way communication, and an audio beacon."
+        }
+    },
+    "11_13": {
+        "manual": {
+            "nuggets": {
+                "matched": [],
+                "not-matched": []
+            },
+            "response": ""
+        }
+    },
+    "12_1": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "Maybe you could support Bayern, since you come from there",
+                    "That would give you something to talk about with you family and friends from home",
+                    "You could also try watching many teams on television, or better yet live, since then you get a sense of the fans and the stadium",
+                    "Don't pick a trendy team and then change",
+                    "Once you pick a team, be loyal to it",
+                    "Be patient, it may take some time before you choose",
+                    "Watch many teams and many games before you narrow down the field"
+                ],
+                "not-matched": []
+            },
+            "response": "Maybe you could support Bayern, since you come from there. That would give you something to talk about with you family and friends from home. You could also try watching many teams on television, or better yet live, since then you get a sense of the fans and the stadium. Don't pick a trendy team and then change. Other fans do not like that, and that is not the action of a real fan. Once you pick a team, be loyal to it. Be patient, it may take some time before you choose. Watch many teams and many games before you narrow down the field."
+        }
+    },
+    "12_3": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "Total Football, used at Ajax, evolved into Tiki-Taka football with the Barcelona team and it was perfected there",
+                    "Since then other teams have adopted and modified the style of play including: Manchester City, Swansea City, Villareal CF and AFC Ajax",
+                    "Portugal's national team has effective used the style that pushes the wingers up and out to win tournaments"
+                ],
+                "not-matched": []
+            },
+            "response": "Total Football, used at Ajax, evolved into Tiki-Taka football with the Barcelona team and it was perfected there. Since then other teams have adopted and modified the style of play including: Manchester City, Swansea City, Villareal CF and AFC Ajax. Portugal's national team has effective used the style that pushes the wingers up and out to win tournaments."
+        }
+    },
+    "12_6": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "Bayern Munich is the most decorated of the three teams, having won a record 32 national titles, including 10 consecutive",
+                    "They have also won 20 national cups, 6 European cups and various club cups",
+                    "Unterhaching has won lower league titles",
+                    "1860 Munich has won one national title and 2 cups"
+                ],
+                "not-matched": []
+            },
+            "response": "By far, Bayern Munich is the most decorated of the three teams, having won a record 32 national titles, including 10 consecutive. They have also won 20 national cups, 6 European cups and various club cups. Unterhaching has won lower league titles, 1860 Munich has won one national title and 2 cups."
+        }
+    },
+    "12_7": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "Bayern has a fanbase of over 45 million",
+                    "a club membership of over 300,000",
+                    "Their social media followers are over 50 million",
+                    "the number of clubs that are associated with them is over 4,000"
+                ],
+                "not-matched": []
+            },
+            "response": "Bayern has a fanbase of over 45 million and a club membership of over 300,000. They rival the top clubs in the world, in the number of fans and far outnumber any team in club membership. Their social media followers are over 50 million and the number of clubs that are associated with them is over 4,000."
+        }
+    },
+    "12_9": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "Wikipedia",
+                    "a book called Pep Confidential",
+                    "a Prime documentary series called FC Bayern - Behind the Legend",
+                    "a matchday tour of the club museum"
+                ],
+                "not-matched": []
+            },
+            "response": "Some sources of the history of Bayern Munich are Wikipedia, a book called Pep Confidential, which covers the more recent history, about Pep Guardiola's early years with the team, and a Prime documentary series called FC Bayern - Behind the Legend. You could also take a matchday tour of the club museum."
+        }
+    },
+    "13_2": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "The issue of preference for purchase of a desktop or a laptop computer depends on usage, particularly whether or not frequent travel is involved",
+                    "In conclusion, desktop vs. laptop comes down to the need for mobility vs. a stationary system that offers better performance"
+                ],
+                "not-matched": []
+            },
+            "response": "The issue of preference for purchase of a desktop or a laptop computer depends on usage, particularly whether or not frequent travel is involved. For example, if you are a professional graphic designer, you would prefer the speed and performance of a desktop. For the same reasons, desktops are preferred by gamers, unless there is a need for mobility. Another major consideration is that desktop computers have more space for upgrades and the user is able to add or change things like RAM, hard drives, GPUs, fans and a whole range of add-on cards (better network cards, sound cards etc.). In conclusion, desktop vs. laptop comes down to the need for mobility vs. a stationary system that offers better performance."
+        }
+    },
+    "13_3": {
+        "manual": {
+            "nuggets": {
+                "matched": [],
+                "not-matched": []
+            },
+            "response": ""
+        }
+    },
+    "13_4": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "Prices range from $1,099 to $1,999 depending on the need for a higher processor speed, more storage space and better graphics"
+                ],
+                "not-matched": []
+            },
+            "response": "The current generation 13-inch MacBook Pro was introduced in October 2018 and comes in four different standard configuration models. It is also available in a less expensive configurations with conventional function keys and only two USB-C/Thunderbolt ports. This version has 8 GB of Memory and 128 GB of storage. Prices range from $1,099 to $1,999 depending on the need for a higher processor speed, more storage space and better graphics. If price is a consideration, there are always a large number of refurbished 13-inch MacBook Pro laptops available, however the 5 to 7 year longevity period could be compromised depending upon care and usage."
+        }
+    },
+    "13_6": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "$2245 - $6099 depending upon upgrades",
+                    "up to 21 hours of battery life",
+                    "up to 64GB of RAM",
+                    "8 TB of super-fast SSD storage",
+                    "3072x1920 pixels with 226 PPI resolution",
+                    "supports P3 and True Tone technologies",
+                    "500 nits of brightness",
+                    "keyboard has been redesigned using the traditional scissors switches dubbed the \"Magic Keyboard",
+                    "six-speaker sound system",
+                    "three Thunderbolt 4 ports",
+                    "HDMI port",
+                    "SDXC card slot",
+                    "headphone jack",
+                    "MagSafe 3 port",
+                    "next generation Wi-Fi 6 for faster connectivity"
+                ],
+                "not-matched": []
+            },
+            "response": "On November 13, 2019, Apple released the 16-inch MacBook Pro which sells anywhere between $2245 - $6099 depending upon upgrades, as this laptop offers three configurations. This MacBook has up to 21 hours of battery life and up to 64GB of RAM with 8 TB of super-fast SSD storage. The 16-inch MacBook Pro has a much thinner screen and the display has 3072x1920 pixels with 226 PPI resolution and supports P3 and True Tone technologies and 500 nits of brightness. For better reliability, the keyboard has been redesigned using the traditional scissors switches dubbed the \"Magic Keyboard.\" This laptop comes with a six-speaker sound system, three Thunderbolt 4 ports, HDMI port, SDXC card slot, headphone jack, MagSafe 3 port and next generation Wi-Fi 6 for faster connectivity."
+        }
+    },
+    "14_2": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "lighting conditions should be one of the first considerations",
+                    "Some plants thrive in the dark, but many do not, and need direct sunlight and should be kept near a window",
+                    "Snake plants and aloe are a good choice for hardy houseplants that also cleans the air and adds oxygen to the house",
+                    "You can even grow fruits and vegetables in your house, provided that you have adequate artificial light for them"
+                ],
+                "not-matched": []
+            },
+            "response": "When choosing houseplants, lighting conditions should be one of the first considerations. Where will you put the plant, in a window or in a hallway? Some plants thrive in the dark, but many do not, and need direct sunlight and should be kept near a window. Snake plants and aloe are a good choice for hardy houseplants that also cleans the air and adds oxygen to the house. You can even grow fruits and vegetables in your house, provided that you have adequate artificial light for them."
+        }
+    },
+    "14_3": {
+        "manual": {
+            "nuggets": {
+                "matched": [],
+                "not-matched": []
+            },
+            "response": ""
+        }
+    },
+    "14_4": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "The bromeliad, polka dot plant, cast iron plant, goldfish plant, pheasant plant, rattlesnake plant and Christmas cactus are a few that come to mind",
+                    "Also there are about 1400 species of bamboo plants that are safe"
+                ],
+                "not-matched": []
+            },
+            "response": "There are many plants that you can get that are non-toxic to cats. The bromeliad, polka dot plant, cast iron plant, goldfish plant, pheasant plant, rattlesnake plant and Christmas cactus are a few that come to mind. Also there are about 1400 species of bamboo plants that are safe. You can check the SPCA website for more information."
+        }
+    },
+    "14_7": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "The best vegetables to grow indoors include: salad greens, scallions, radishes, beets, carrots, bush beans, peas, potatoes and even brussel sprouts"
+                ],
+                "not-matched": []
+            },
+            "response": "The best vegetables to grow indoors include: salad greens, scallions, radishes, beets, carrots, bush beans, peas, potatoes and even brussel sprouts. Herbs can also be grown, even in a window box. Of course some of these plants will need grow lights in order for them to thrive."
+        }
+    },
+    "14_8": {
+        "manual": {
+            "nuggets": {
+                "matched": [],
+                "not-matched": []
+            },
+            "response": ""
+        }
+    },
+    "14_9": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "fluorescent or LED are the best choice to go with in an apartment",
+                    "There is much less heat with the LEDs and they also last much longer than anything on the market",
+                    "Some are also selectable as to the color of light that you would require, and they draw much less energy"
+                ],
+                "not-matched": []
+            },
+            "response": "Incandescent lights do not usually have the full spectrum that you would like, so fluorescent or LED are the best choice to go with in an apartment. There is much less heat with the LEDs and they also last much longer than anything on the market. Some are also selectable as to the color of light that you would require, and they draw much less energy."
+        }
+    },
+    "14_10": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "While CFL bulbs provide the broad spectrum of light that is required for growing plants, they also are mercury and toxic gasses, and are hazardous when broken",
+                    "They are also less expensive than LED bulbs",
+                    "Regular white LED's do not provide the proper light frequencies for growing all plants, but there are LED grow light that do",
+                    "They are also much more efficient that the CFLs and last much longer"
+                ],
+                "not-matched": []
+            },
+            "response": "While CFL bulbs provide the broad spectrum of light that is required for growing plants, they also are mercury and toxic gasses, and are hazardous when broken. They are also less expensive than LED bulbs. Regular white LED's do not provide the proper light frequencies for growing all plants, but there are LED grow light that do. They are also much more efficient that the CFLs and last much longer."
+        }
+    },
+    "15_1": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "Canon, Nikon, Pentax and Olympus are the most popular brands",
+                    "For mirrorless cameras, Sony, Canon, Nikon and Fuji are very popular",
+                    "There are also medium format cameras, such as Fuji and Hasselblad"
+                ],
+                "not-matched": []
+            },
+            "response": "It depends on the type of camera that you want to purchase. For DSLR, Canon, Nikon, Pentax and Olympus are the most popular brands. For mirrorless cameras, Sony, Canon, Nikon and Fuji are very popular. There are also medium format cameras, such as Fuji and Hasselblad."
+        }
+    },
+    "15_4": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "The Fujifilm X-E4",
+                    "Sony a6000",
+                    "Canon EOS M50"
+                ],
+                "not-matched": []
+            },
+            "response": "The Fujifilm X-E4, Sony a6000 and Canon EOS M50 are all mirrorless cameras, for under one thousand dollars that are very good landscape cameras."
+        }
+    },
+    "15_6": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "Fujifilm offers a number of models of mirrorless cameras that would suit your requirements",
+                    "The X-T100, X-T200, X-S10, X-A5, X-A7, X-T4, GFX 50R, X-T30 II and X-E1 are all under one thousand dollars"
+                ],
+                "not-matched": []
+            },
+            "response": "Fujifilm offers a number of models of mirrorless cameras that would suit your requirements. The X-T100, X-T200, X-S10, X-A5, X-A7, X-T4, GFX 50R, X-T30 II and X-E1 are all under one thousand dollars."
+        }
+    },
+    "15_10": {
+        "manual": {
+            "nuggets": {
+                "matched": [
+                    "an autofocus area that covers a large area with 91 focus points",
+                    "a 24MP APS-C sensor",
+                    "a 3 inch touchscreen LCD with two axis tilt",
+                    "The camera can record 4K UHD video at up to 200Mbps slow motion",
+                    "The shutter can expose from 1/8000 of a second to 30 seconds",
+                    "It has WiFi and Bluetooth to transfer photos and video without removing the SD card",
+                    "the ISO sensitivity is from 200-12,800"
+                ],
+                "not-matched": []
+            },
+            "response": "The Fujifilm X-H1 specifications include: an autofocus area that covers a large area with 91 focus points. It has a 24MP APS-C sensor, a 3 inch touchscreen LCD with two axis tilt. The camera can record 4K UHD video at up to 200Mbps slow motion. The shutter can expose from 1/8000 of a second to 30 seconds. It has WiFi and Bluetooth to transfer photos and video without removing the SD card, and the ISO sensitivity is from 200-12,800."
+        }
+    }
+}
